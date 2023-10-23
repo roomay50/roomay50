@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roomay50. I'm a python developer
 - 💞️ I’m looking to collaborate on python projects, machine learning projects, and API's
-- 📫 you can reach me on twitter @Rosemar33405471
+- 📫 you can reach me on twitter @Rosemar33405471 and on Facebook @rosemary agala
 - ✨✨ I'm looking to change the world
 
 <!---
